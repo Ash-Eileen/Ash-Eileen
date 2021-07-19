@@ -23,11 +23,11 @@
 ![ReactJS](https://img.icons8.com/color/40/react-native.png) 
 ![TypeScript](https://img.icons8.com/color/40/000000/typescript.png)
 ![C#](https://img.icons8.com/color/40/000000/c-sharp-logo-2.png)
+![Python](https://img.icons8.com/color/40/000000/python--v1.png)
 ![NPM](https://img.icons8.com/color/40/npm.png)
 ![Github](https://img.icons8.com/material-outlined/40/github.png) 
 ![Git](https://img.icons8.com/color/40/git.png) 
 ![VSCode](https://img.icons8.com/color/40/visual-studio-code-2019.png) 
-![Vim](https://img.icons8.com/ios/40/000000/vimeo.png)
 ![Terminal](https://img.icons8.com/color/40/console.png)
 
 ## Github Stats
