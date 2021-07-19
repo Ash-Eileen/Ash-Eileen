@@ -11,7 +11,7 @@
 
 <div style="display:inline-block;" >
 
-<img src="https://img.icons8.com/ios/50/000000/github--v1.png"/>
+<img src="https://img.icons8.com/nolan/64/github.png"/>
   
 </div>
 
