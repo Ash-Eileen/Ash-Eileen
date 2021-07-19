@@ -5,10 +5,10 @@
 
 ### Full Stack Developer
 
-* 💻 **Portfolio:** Check out my [portfolio](https://ashleysmith.dev/) here!
-* 🔭 **Currently working as:** A Software Engineer at [WORK180](https://au.work180.co/). 
-* 🌱 **Currently Learning:** C# and TypeScript.
-* 🎮 **Currently Playing**: Valorant, Danganronpa and TeamFight Tactics!
+* 💻  **Portfolio:** Check out my [portfolio](https://ashleysmith.dev/) here!
+* 🔭  **Currently working as:** A Software Engineer at [WORK180](https://au.work180.co/). 
+* 🌱  **Currently Learning:** C# and TypeScript.
+* 🎮  **Currently Playing**: Valorant, Danganronpa and TeamFight Tactics!
 
 ## Tech Stack
 
