@@ -1,4 +1,20 @@
-### Hi there 👋
+## Hi, I'm Ash 👋 
+
+#### Full Stack Developer
+
+* 💻 **Portfolio:** Check out my [portfolio](https://ashleysmith.dev/) here!
+* 🔭 **Currently working as:** A Software Engineer at [WORK180](https://au.work180.co/). 
+* 🌱 **Currently Learning:** C# and TypeScript.
+* 🎮 **Currently Playing**: Valorant, Danganronpa and TeamFight Tactics!
+
+## Tech Stack
+
+
+## Github Stats
+
+[![Ash's GitHub Stats](https://github-readme-stats.simosultan.vercel.app/api?username=Ash-Eileen)](https://github.com/Ash-Eileen)
+
+[![Top Langs](https://github-readme-stats.simosultan.vercel.app/api/top-langs/?username=Ash-Eileen&layout=compact)](https://github.com/Ash-Eileen)
 
 <!--
 **Ash-Eileen/Ash-Eileen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
