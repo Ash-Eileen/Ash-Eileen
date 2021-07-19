@@ -1,13 +1,15 @@
 ## Hi, I'm Ash 👋 
 
 #### Full Stack Developer
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Ash_Smith_)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ash-eileen/)
 
 * 💻 **Portfolio:** Check out my [portfolio](https://ashleysmith.dev/) here!
 * 🔭 **Currently working as:** A Software Engineer at [WORK180](https://au.work180.co/). 
 * 🌱 **Currently Learning:** C# and TypeScript.
 * 🎮 **Currently Playing**: Valorant, Danganronpa and TeamFight Tactics!
 
-## Tech Stack
+### Tech Stack
 
 <div style="display:inline-block;" >
 
@@ -16,7 +18,7 @@
   
 </div>
 
-## Github Stats
+### Github Stats
 
 [![Ash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ash-Eileen&show_icons=true&theme=dracula)](https://github.com/Ash-Eileen)
 
