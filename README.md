@@ -21,7 +21,7 @@
 ![NodeJS](https://img.icons8.com/color/40/nodejs.png)
 ![MongoDB](https://img.icons8.com/color/40/000000/mongodb.png)
 ![ReactJS](https://img.icons8.com/color/40/react-native.png) 
-![C#](<img src="https://img.icons8.com/color/40/000000/c-sharp-logo-2.png"/>)
+![C#](https://img.icons8.com/color/40/000000/c-sharp-logo-2.png)
 ![NPM](https://img.icons8.com/color/40/npm.png)
 ![Github](https://img.icons8.com/material-outlined/40/github.png) 
 ![Git](https://img.icons8.com/color/40/git.png) 
